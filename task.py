@@ -42,5 +42,84 @@
 # print(new_json)
 # print(type(new_json))
 
-result =  10/0
-print(result)
+# def count(name) :
+#     return f"your name is  : {name}"
+
+# print(count("yasin"))
+
+
+# My_list = ["apple","banana", "cherry"]
+
+# hidden_iter =  iter(My_list)
+
+# while True :
+#     try  :
+#         x = next(hidden_iter)
+#         print(x)
+#     except StopIteration :
+#         break
+
+# import platform
+# print(f"your system is : {platform.system()}")
+
+# import datetime
+# print(f"your datatiem is : {datetime.datetime.now()}")
+
+# import os
+# print(f"your current folder : {os.getcwd()}")
+
+# import sys
+# print(f"your python version : {sys.version}")
+
+# import random 
+
+# choice =  ["apple","banana","cherry"]
+# print(random.choice(choice))
+
+# new_list = random.randint(1,10)
+# print(new_list)
+
+
+# import math
+# print(math.sqrt(125))
+
+# print(math.pow(24,2))
+
+# print(math.fabs(-150))
+
+# print(math.pi)
+# print(math.e)
+
+# print(math.factorial(10))
+
+
+# print(math.ceil(4.5))
+# print(math.floor(2.2))
+
+
+# date_time =  datetime.date.today()
+# print(date_time)
+
+# print(datetime.datetime.now())
+
+# custome_Date =  datetime.date(2024,12,30)
+# print(custome_Date)
+
+# print(custome_Date.day)
+# print(custome_Date.year)
+# print(custome_Date.month)
+
+
+# today =  datetime.date.today()
+# print(today)
+
+# format_time =  today.strftime("%d-%m-%Y")
+# print(format_time)
+
+# format_time2 =  today.strftime("%A/%d/%B/%Y")
+# print(format_time2)
+
+# import practice
+
+# print(f"your billing test is : {practice.add(100,200)}")
+
